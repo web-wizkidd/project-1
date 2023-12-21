@@ -1,0 +1,26 @@
+.quote{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+h2{color: antiquewhite;}
+h4{
+    color: aliceblue;
+}
+li{
+    color: antiquewhite;
+}
+.about{
+    background-color: black;
+}
+.contact{
+    background-color: black;
+}
